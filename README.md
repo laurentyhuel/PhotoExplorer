@@ -93,11 +93,19 @@ List of libraries used in project:
     - Turbine for Flow test
   
 ## ScreenShots
+
 - Loading screen:
+
 ![Loading screen](doc/Screenshot_loading.png)
+
 - Error screen:
+
 ![Error screen](doc/Screenshot_error.png)
+
 - List screen:
-![List screen](doc/Screenshot_details.png)
+
+![List screen](doc/Screenshot_list.png)
+
 - Details screen:
 
+![Details screen](doc/Screenshot_details.png)
