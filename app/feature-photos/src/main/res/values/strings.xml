@@ -1,0 +1,15 @@
+<resources>
+    <string name="photo_by">By %s</string>
+    <plurals name="likes">
+        <item quantity="one">%d Like</item>
+        <item quantity="other">%d Likes</item>
+    </plurals>
+    <plurals name="downloads">
+        <item quantity="one">%d Download</item>
+        <item quantity="other">%d Downloads</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="one">%d View</item>
+        <item quantity="other">%d Views</item>
+    </plurals>
+</resources>
