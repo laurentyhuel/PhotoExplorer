@@ -20,6 +20,8 @@ Application use data from [Unsplash API](https://unsplash.com/documentation)
   - Check app is not running on rooted device
   - Check source of installation
   - Add obfuscation
+- Add [Paging library](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
+- Store API results locally to allow offline mode
 
 
 ## Setup
